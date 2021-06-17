@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gakkavim
-- 👀 I’m interested in becoming a Computer Programmer
+- 👀 I’m interested in becoming an AI Developer.
 - 🌱 I’m currently learning algorithms basics.
 - 💞️ I’m looking to observe from other people's works.
 - 📫 You can use to Inbox to reach me.
