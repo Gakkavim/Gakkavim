@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gakkavim
-- 👀 I’m interested in becoming an AI Developer.
-- 🌱 I’m currently learning algorithms basics.
+- 👀 I’m interested in becoming an Data Scientist.
+- 🌱 I’m currently in school for Statistics.
 - 💞️ I’m looking to observe from other people's works.
 - 📫 You can use to Inbox to reach me.
 
