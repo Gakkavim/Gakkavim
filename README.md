@@ -1,25 +1,29 @@
 # Hi, I'm Göksenin Akkavim 👋
 
-**AI & Software Development Student | Open-Source Enthusiast**
-
-I am an aspiring AI Developer specializing in data pipelines, machine learning architectures, and scalable backends. Currently pursuing an associate degree in **AI-Assisted Coding** at Anadolu University, focusing on core computer science foundations and end-to-end model workflows.
+**AI & Systems Developer | Open-Source Enthusiast**  
+Building at the intersection of applied machine learning, data engineering, and structured computing. Focused on graph-based representations, efficient attention architectures, and resilient developer workflows.
 
 ---
 
-### 🔭 Current Focus & Roadmap
-- 🧱 **Foundations:** Algorithms, Data Structures, and Clean Python.
-- ⚙️ **AI & Data Engineering:** Exploring ETL pipelines, tokenization, and vector embeddings.
-- 🌐 **Open Source:** Contributing to open datasets, evaluation benchmarks, and tooling.
+### 🔭 Current Focus & Research
+
+- **Applied AI & Graph Architectures:** Experimenting with Graph Neural Networks (GNN/GAT) and structural data modeling for non-standard pattern recognition.
+- **Attention & Representation:** Exploring fractal/sparse attention mechanics and efficient tokenization workflows.
+- **Open Data & Infrastructure:** Contributing datasets, reproducible evaluation pipelines, and open-source tooling.
+- **Systems & Linux:** Developing within Unix-first environments, automation scripting, and scalable local workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
-- **Languages:** Python, Bash, SQL, Markdown
-- **AI & Data:** Hugging Face Hub, PyTorch (learning track), Datasets
-- **Tools & Environments:** Git, GitHub, Linux Mint, VS Code
+
+- **Languages:** Python, Bash, SQL, R, C / C++, Markdown
+- **AI / Data Engineering:** PyTorch, Hugging Face Hub, Scikit-learn, Vector Pipelines, Pandas, NumPy
+- **OS & Development:** Linux Mint, Git & GitHub, VS Code, Google Antigravity / AI Studio
 
 ---
 
 ### 📬 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/gakkavim](https://www.linkedin.com/in/gakkavim) 
 - **GitHub:** [@Gakkavim](https://github.com/Gakkavim)
-- **Email:** gakkavim@gmail.com
+- **Email:** [gakkavim@gmail.com](mailto:gakkavim@gmail.com)
